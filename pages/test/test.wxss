@@ -1,0 +1,31 @@
+/* pages/test/test.wxss */
+.container1{
+	display:flex;
+	border:1px solid red;
+	flex-direction:row;
+	background-color:#999;
+	/* height:100px; */
+	justify-content:center;
+	align-items:flex-start;
+	flex-wrap:wrap;
+}
+.chunk{
+	/* display:inline-block; */
+	width:160px;
+	height:100px;
+}
+
+.color1{
+	background-color:brown;
+  font-size: 26px;
+}
+
+.color2{
+	background-color:aqua;
+  font-size:20px;
+}
+
+.color3{
+	background-color:blue;
+  font-size:14px;
+}
