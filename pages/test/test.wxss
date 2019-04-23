@@ -3,7 +3,7 @@
 	display:flex;
 	border:1px solid red;
 	flex-direction:row;
-	background-color:#999;
+	background-color:rgb(131, 87, 87);
 	/* height:100px; */
 	justify-content:center;
 	align-items:flex-start;
